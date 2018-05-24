@@ -1,18 +1,18 @@
   # WJXKeychainItemWrapper
 
    ## 介绍
-   苹果demo的KeychainItemWrapper,只是为了便于自己使用.不用拖文件.
+    苹果demo的KeychainItemWrapper,只是为了便于自己使用.不用拖文件.
 
    ## 版本
-   1.1.1
+    1.1.1
 
    ## 版本
-   source 'https://github.com/wangjixiao1992/WJXKeychainItemWrapper.git'
-   platform :ios, '8.0'
+    source 'https://github.com/wangjixiao1992/WJXKeychainItemWrapper.git'
+    platform :ios, '8.0'
 
-   target 'TargetName' do
-   pod 'WJXKeychainItemWrapper', '~> 1.1.1'
-   end
+    target 'TargetName' do
+    pod 'WJXKeychainItemWrapper', '~> 1.1.1'
+    end
 
    ## 演示代码
 
